@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jalebi Coder
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming / UI/UX Designing
 - 📫 Reach me at jalebicd@gmail.com
 
 <!---
